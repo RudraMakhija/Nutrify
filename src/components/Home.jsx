@@ -66,7 +66,7 @@ const Home = () => {
             <div className="flex-grow">
                 <div className="my-4">
                     <div className="text-center">
-                        <h1 className='font-extrabold text-5xl mt-12'>Select two fruits for nutritional value comparison.</h1>
+                        <h1 className='font-extrabold text-5xl mt-12 text-white'>Select two fruits for nutritional value comparison.</h1>
                     </div>
 
                     <form className="flex flex-col items-center w-full p-6 space-y-4">
@@ -135,7 +135,7 @@ const Home = () => {
                                 </div>
 
                                 <div className="text-center">
-                                    <h2 className='text-5xl font-extrabold '>VS.</h2>
+                                    <h2 className='text-5xl font-extrabold text-white'>VS.</h2>
                                 </div>
 
                                 <div className="flex flex-col items-center">
